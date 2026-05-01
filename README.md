@@ -1,7 +1,7 @@
 # Callbook GTM Intelligence Engine
 
 **Built for:** Callbook.ai GTM Hackathon 2026  
-**Team:** The Data Gamblers  
+**Team:** Prakhar Anand and Vaishali Hireraddi  
 **Track:** Tech/Automation + Lead Generation + Outreach Strategy
 
 ---
@@ -10,7 +10,7 @@
 
 An end-to-end GTM system that finds, scores, and generates personalized outreach for Callbook.ai's ideal customers — lenders actively hiring for collections and debt recovery roles.
 
-**Live demo:** [Deploy to Hugging Face Spaces]
+**Live demo:** https://callbook-gtm-engine.streamlit.app/
 
 ---
 
